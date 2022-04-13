@@ -1,0 +1,10 @@
+File C:\CMPFOR_APPLICATIONS\SOUTHBY_BATCH_FILES_REFERENCE\Get_Key\get_key.ps1 cannot be loaded because running scripts 
+is disabled on this system. For more information, see about_Execution_Policies at 
+https:/go.microsoft.com/fwlink/?LinkID=135170.
+    + CategoryInfo          : SecurityError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+File C:\CMPFOR_APPLICATIONS\SOUTHBY_BATCH_FILES_REFERENCE\Get_Key\get_key1.ps1 cannot be loaded because running 
+scripts is disabled on this system. For more information, see about_Execution_Policies at 
+https:/go.microsoft.com/fwlink/?LinkID=135170.
+    + CategoryInfo          : SecurityError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnauthorizedAccess
